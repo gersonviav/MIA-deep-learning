@@ -1,0 +1,38 @@
+# Environment virtuales
+exmenfinal/
+exmenfinal/
+.exmenfinal/
+.exmenfinal/
+exmenfinal/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Archivos de audio/video grandes (opcional)
+*.mp4
+*.wav
