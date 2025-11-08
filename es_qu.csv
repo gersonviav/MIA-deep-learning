@@ -1,3 +1,548 @@
 source,target
 ¿De qué trata el video?,Imataq videopi willakun?
 El video habla de energía.,Videoqa energía mamanta rimarin.
+¿Qué es la inteligencia artificial?,¿Imataq inteligencia artificial nisqa?
+La IA puede aprender por sí misma.,IAqa kikinta yachayta atin.
+Los robots usan inteligencia artificial.,Robotkunaqa inteligencia artificialta llamk'achinku.
+¿Cómo funciona el aprendizaje automático?,¿Imanötaq aprendizaje automático llamk'achkan?
+Los datos son el alimento de la IA.,Datokunaqa IApq mikhuninmi.
+¿La IA será más lista que los humanos?,¿IAqa runakunamanta aswan listachö kanqachu?
+La red neuronal imita al cerebro.,Red neuronalqa ñututa imitan.
+El algoritmo resuelve problemas complejos.,Algoritmuqa sasachakuykunata allichan.
+¿Qué es el procesamiento de lenguaje natural?,¿Imataq procesamiento de lenguaje natural nisqa?
+La máquina reconoce imágenes.,Makinaka rikch'akunata riqsirin.
+La visión por computadora permite ver.,Computadora qhawariyqa qhawanata saqen.
+Los coches autónomos usan IA.,Kuyuq antawakunaqa IAta llamk'achinku.
+La IA diagnostica enfermedades.,IAqa unquykunata hampinanpaq chaninchankun.
+Los asistentes virtuales son útiles.,Asistente virtualkunaqa yanapakuqmi.
+¿La IA puede ser creativa?,¿IAqa creativo kanmanchu?
+El big data es muy importante.,Big dataqa ancha importanteñam.
+Aprendizaje profundo para tareas difíciles.,Deep learningqa sasachakuy llamk'akunapaq.
+La IA mejora la agricultura.,IAqa allpachakuyta allinchán.
+Los chatbots atienden a clientes.,Chatbotkunaqa clientekunata yanapanku.
+¿La IA reemplazará muchos trabajos?,¿IAqa achka llamk'aykunata hich'ananchu?
+La ética en IA es fundamental.,Ética IApiqa fundamentalmi.
+Los sistemas expertos deciden.,Sistema expertoqa kamachikun.
+Reconocimiento facial para seguridad.,Uywa riqsiyqa seguridadpaq.
+La IA traduce idiomas al instante.,IAqa simikunata k'itimantan t'ikran.
+Predicción del clima con IA.,Pacha forecastqa IAwan.
+Recomendaciones personalizadas.,Kikinman ajuste nisqa rimanakuy.
+La IA juega al ajedrez.,IAqa ajedrez pukllan.
+Detección de fraudes financieros.,Chanta spiaq riqsiy qullqi.
+La IA en los teléfonos móviles.,IAqa llika phonekunapi.
+Generación de texto automático.,Kikinchasqa qillqa kamariy.
+¿Qué es un modelo de IA?,¿Imataq IA modelu nisqa?
+Entrenar un modelo con datos.,Modeluta datokunawan yachachiy.
+Sesgo en los algoritmos.,Algoritmukunapi mana chaninchu.
+La IA en la exploración espacial.,IAqa pachakawpi puriypi.
+Robótica e inteligencia artificial.,Robot yachaywan inteligencia artificial.
+La IA comprende comandos de voz.,IAqa rimay kamachikunata hap'inqa.
+Procesar grandes volúmenes de datos.,Hatun datokunata procesay.
+La IA optimiza recursos.,IAqa recurso kunata allichan.
+Simulación de escenarios reales.,Cheqaq escenariokunata rikuchiy.
+La IA en la industria manufacturera.,IAqa llamk'ay ruruchakuypi.
+Vigilancia con inteligencia artificial.,Qhawachiq inteligencia artificialwan.
+Veo películas sugeridas por IA.,IAwan willasqa kuyu walltayta qhawani.
+¿La IA tiene sentimientos?,¿IAqa wayllukuyyuqchu?
+Filtro de spam en el correo.,Ch'usaq willakuy filtro correopi.
+Asistente para programar citas.,Yanapakuq encuentro kamachinanpaq.
+Reconocimiento de gestos.,Uywa chaninchan riqsiy.
+La IA ayuda en la investigación.,IAqa mask'aypi yanapan.
+Conducción automática en ciudades.,Kuyuq antawa llaktakunapi.
+Análisis de sentimientos en redes.,Wayllukuy chaninchasqa llikakunapi.
+Crear arte con inteligencia artificial.,Inteligencia artificialwan llimphi ruruy.
+El futuro de la inteligencia artificial.,Inteligencia artificialpa qhepa p'unchawnin.
+¿Qué es una red neuronal?,¿Imataq red neuronal nisqa?
+Las neuronas artificiales imitan a las biológicas.,Neurona artificialkunaqa biológicas kunkunata imitanku.
+¿Cómo se entrena una red neuronal?,¿Imanötaq red neuronal yachachisqa?
+El aprendizaje profundo usa muchas capas.,Deep learningqa achka capakunata llamk'achin.
+La propagación hacia adelante calcula la salida.,Ñawpaqman propagaciónqa lluqsiyta calculan.
+El error se propaga hacia atrás.,Pantasqaqa qhipaman propagakun.
+La función de activación decide si se enciende.,Activación funciónqa hayk'apuni nisqata decidin.
+¿Qué es una capa oculta?,¿Imataq capa oculta nisqa?
+Las conexiones tienen pesos sinápticos.,Tinkikunaqa peso sináptico niyuqmi.
+El sesgo ajusta el umbral de activación.,Sesgoqa activación umbralta ajustan.
+Redes neuronales convolucionales para imágenes.,Red neuronal convolucional rikch'akunapaq.
+El pooling reduce la dimensionalidad.,Poolingqa dimensionalidadta pisirachin.
+Redes recurrentes para datos secuenciales.,Red recurrente secuencia datokunapaq.
+Las memorias LSTM recuerdan a largo plazo.,LSTMqa unay pachata yarpachan.
+El sobreajuste es un problema común.,Overfittingqa común sasachakuymi.
+La regularización previene el sobreajuste.,Regularizaciónqa overfittingta hark'an.
+Dropout apaga neuronas aleatoriamente.,Dropoutqa neuronakunata random apagan.
+La tasa de aprendizaje es crucial.,Learning rateqa ancha importantemi.
+¿Qué es el descenso de gradiente?,¿Imataq gradiente descenso nisqa?
+El gradiente muestra la dirección de ajuste.,Gradienteqa ajuste direcciónta rikuchin.
+Backpropagation ajusta los pesos.,Backpropagationqa pesokunata ajustan.
+Una época es un paso completo de entrenamiento.,Epochaqa huk enteru entrenamiento pasomi.
+El lotes procesa varios datos a la vez.,Batchqa achka datokunata kuskan procesan.
+La normalización acelera el entrenamiento.,Normalizaciónqa entrenamientota usqhaychan.
+Redes generativas adversariales crean datos nuevo.,GANkunaqa musuq datokunata kamarinku.
+Los autoencoders comprimen datos.,Autoencoderqa datokunata comprimen.
+Las capas densamente conectadas.,Denso capakunaqa totalmente t'inkisqami.
+La función de pérdida mide el error.,Loss functionqa pantasqata tupachin.
+La softmax para clasificación múltiple.,Softmaxqa achka clase clasificaciónpaq.
+La ReLU es una activación popular.,ReLUqa popular activaciónmi.
+El vanishing gradient problem.,Gradiente chinkapuy sasachakuy.
+Redes de creencia profunda.,Deep belief networkkuna.
+Las neuronas se activan con patrones.,Neuronakunaqa patrónkunawan activachkanku.
+El perceptrón es la unidad básica.,Perceptrónqa básico unidadmi.
+Multilayer perceptron para problemas complejos.,MLPqa sasachakuy llamk'akunapaq.
+La convolución extrae características.,Convoluciónqa característicakuna horqon.
+Los filtros detectan bordes y texturas.,Filtrokunaqa borde texturakunata tarinku.
+La capa de salida da la predicción final.,Lluqsiy capaqa final predictanta qon.
+La normalización por lotes estabiliza el entrenamiento.,Batch normqa entrenamiento estableta ruwan.
+La inicialización de pesos es importante.,Peso inicializaciónqa importantemi.
+Early stopping evita el sobreentrenamiento.,Early stoppingqa overfittingta hark'an.
+La arquitectura de la red es su diseño.,Red arquitecturaqa diseñonmi.
+Las conexiones residuales ayudan en redes profundas.,Residual connectionkuna hatun redkunapi yanapanku.
+La atención mejora el procesamiento de secuencias.,Atenciónqa secuencia procesamientota allinchán.
+Transformers usan autoatención.,Transformerkunaqa auto-atención llamk'achinku.
+Embeddings representan palabras como vectores.,Embeddingkunaqa simikunata vector hinata representan.
+La capa de embedding es la primera entrada.,Embedding capaqa primer entrada capan.
+Las redes neuronales graph para datos estructurados.,Graph neural network estructura datokunapaq.
+La propagación de mensajes en grafos.,Mensaje propagación grafikunapi.
+Redes somáticas para agrupamiento.,SOMkunaqa tantachakupaqmi.
+El mapa autoorganizado aprende patrones.,SOMqa patrónkunata yachan.
+La competición entre neuronas.,Neurona competencia.
+source,target
+La inteligencia artificial transforma industrias.,Inteligencia artificialqa industria kunata transforman.
+El machine learning aprende de la experiencia.,Machine learningqa experiencia mantam yachan.
+Los datos de entrenamiento deben ser limpios.,Entrenamiento datokunaqa limpio karan.
+El modelo predictivo anticipa comportamientos.,Modelo predictivoqa conductakunata anticipan.
+La clasificación de imágenes es una aplicación común.,Rikch'a clasificaciónqa común aplicacionmi.
+El procesamiento de lenguaje natural entiende el texto.,Procesamiento de lenguaje naturalqa textota entienden.
+Los chatbots responden preguntas automáticamente.,Chatbotkunaqa tapuykunata kikillanmanta kutichinku.
+La visión por computadora analiza fotografías.,Computadora qhawariyqa fotokunata analizan.
+Los vehículos autónomos navegan solos.,Kuyuq antawakunaqa kikinkunantam purinku.
+La IA en medicina mejora diagnósticos.,IA hampikamayuqpi diagnósticokunata allinchán.
+Los sistemas de recomendación sugieren productos.,Recomendación sistemakunaqa productokunata suggest ranku.
+La minería de datos descubre patrones ocultos.,Dato mineriaqa pakasqa patrónkunata tarinku.
+El análisis predictivo forecast tendencias.,Predictivo análisisqa tendenciakunata forecast ranku.
+Los algoritmos genéticos optimizan soluciones.,Algoritmo genéticokunaqa soluciónkunata optimizan.
+La lógica difusa maneja incertidumbre.,Lógica difusaqa mana seguro kasqata gestionan.
+Los sistemas expertos emulan conocimiento humano.,Sistema expertoqa runa yachayta emulan.
+El reconocimiento de voz convierte audio a texto.,Rimay riqsiyqa audio ta textoman t'ikran.
+La biometría identifica personas únicas.,Biometríaqa sapaq runakunata identifican.
+La robótica combina hardware y IA.,Robóticaqa hardware IAwan tantachan.
+La automatización inteligente mejora procesos.,Inteligente automatizaciónqa procesokunata mejoran.
+Los asistentes virtuales programan recordatorios.,Asistente virtualkunaqa yarpachikuykunata programanku.
+La IA genera código de programación.,IAqa programa código ta generan.
+El testing automático encuentra bugs.,Automático testingqa fallotakuna tarin.
+La ciberseguridad usa IA para protección.,Ciberseguridadqa IAta protecciónpaq llamk'achin.
+El fraud detection previene pérdidas.,Fraude detecciónqa pérdidakunata hark'an.
+El trading algorítmico opera en mercados.,Algorítmico tradingqa mercadokunapi operan.
+Los smart contracts son auto-ejecutables.,Smart contractkunaqa kikinmanta ejecutanku.
+La computer vision lee documentos escaneados.,Computadora qhawariyqa escaneo documentokunata leen.
+El object detection localiza elementos en imágenes.,Objeto detecciónqa imakunata rikch'akunapi tarin.
+La segmentación semántica divide imágenes por significado.,Semántico segmentaciónqa rikch'akunata significado ninman rakin.
+El image captioning describe fotos automáticamente.,Rikch'a descripciónqa fotokunata kikillanmanta willan.
+La augmented reality superpone información virtual.,Realidad aumentadaqa virtual informaciónta superponen.
+La virtual reality crea mundos inmersivos.,Realidad virtualqa immersivo pachakunata kamarin.
+Los deepfakes sintetizan rostros realistas.,Deepfakekunaqa cheqaq uywa sintetizan.
+La generación de texto crea contenido original.,Texto generaciónqa original contenidota kamarin.
+El text summarization resume documentos largos.,Texto resumenqa hatun documentokunata resumen.
+La traducción automática rompe barreras lingüísticas.,Automático traducciónqa simi barrierakunata pakan.
+El sentiment analysis detecta emociones en texto.,Sentimiento análisisqa wayllukuykunata textopi tarin.
+El topic modeling identifica temas en documentos.,Tema modeladoqa temakunata documentokunapi identifican.
+Los word embeddings capturan significado léxico.,Word embeddingkunaqa léxico significadota hap'inku.
+El named entity recognition encuentra nombres propios.,Entidad reconocimientoqa suti propioskunata tarin.
+La speech synthesis convierte texto a voz.,Rimay síntesisqa textota rimayman t'ikran.
+El audio analysis procesa sonidos.,Audio análisisqa tonokunata procesan.
+La music generation compone melodías.,Música generaciónqa melodíakunata componen.
+El sound classification categoriza ruidos.,Sonido clasificaciónqa ruidokunata clasifican.
+La environmental sound detection alerta sobre eventos.,Medio ambiente sonido detecciónqa eventokunamanta willan.
+Los medical imaging analysis ayudan a doctores.,Médico imagen análisisqa hampikamayuqkunata yanapanku.
+El drug discovery acelera desarrollo de medicinas.,Medicina descubrimientoqa hampikamayuq desarrollo ta usqhaychan.
+La genomic sequencing analiza ADN.,Genómico secuenciaciónqa ADNta analizan.
+Los health monitors predicen enfermedades.,Salud monitorkunaqa unquykunata predict ranku.
+La personalized medicine adapta tratamientos.,Personalizado medicinaqa tratamientokunata ajustan.
+Los wearable devices recolectan datos de salud.,Wearable dispositivokunaqa salud datota hap'inku.
+La crop monitoring optimiza agricultura.,Cultivo monitoreoqa agriculturata optimizan.
+Los precision farming systems ahorran recursos.,Precisión agricultura sistemakunaqa recursokunata waqaychanku.
+El pest detection protege cultivos.,Plaga detecciónqa cultivokunata protegen.
+La livestock tracking monitoriza animales.,Ganado rastreoqa uywakunata monitorizan.
+Los climate models predicen cambios climáticos.,Clima modelokunaqa pacha cambio predict ranku.
+La pollution analysis mide calidad del aire.,Contaminación análisisqa aire calidatta tupachin.
+El water quality monitoring detecta contaminantes.,Agua calidad monitoreoqa contaminantekunata tarin.
+Los energy grid optimizers balancean carga.,Energía red optimizadorkunaqa cargata balancean.
+El smart meter analysis gestiona consumo.,Smart medidor análisisqa consumota gestionan.
+La predictive maintenance evita fallas en máquinas.,Predictivo mantenimientoqa makina fallotakuna hark'an.
+Los quality control systems inspeccionan productos.,Calidad control sistemakunaqa productokunata inspect ranku.
+El supply chain optimization reduce costos.,Cadena optimizaciónqa costokunata pisirachin.
+La inventory management predice demanda.,Inventario gestiónqa demandata predict ranku.
+Los demand forecasting models mejoran planificación.,Demanda forecast modelokunaqa planificaciónta allinchán.
+El customer segmentation agrupa clientes.,Cliente segmentaciónqa clientekunata grupunchanku.
+La churn prediction identifica clientes en riesgo.,Fuga predicciónqa cliente peligropi kasqankuta identifican.
+Los recommendation engines personalizan experiencias.,Recomendación motorkunaqa experienciakunata personalizanku.
+El market basket analysis encuentra asociaciones.,Mercado canasta análisisqa asociaciónkunata tarin.
+La price optimization maximiza ganancias.,Precio optimizaciónqa gananciakunata maximizan.
+Los social media analytics miden engagement.,Social media análisisqa engagementta tupachinku.
+El trend detection identifica temas populares.,Tendencia detecciónqa popular temakunata identifican.
+La network analysis estudia relaciones.,Red análisisqa relaciónkunata estudianku.
+Los influence metrics identifican líderes de opinión.,Influencia métricakunaqa opinión líderkunata identifican.
+El content moderation filtra material inapropiado.,Contenido moderaciónqa mana allin materialta filtran.
+Los spam filters bloquean correo no deseado.,Spam filtrokunaqa mana munaq correota hark'anku.
+La fake news detection identifica noticias falsas.,Fake news detecciónqa falsa willakuykunata identifican.
+El cyberbullying detection protege usuarios.,Cyberbullying detecciónqa usuariokunata protegen.
+Los parental controls restringen contenido.,Parental controlkunaqa contenidota restringen.
+La accessibility tech ayuda a personas con discapacidad.,Accesibilidad tecnologíaqa discapacidadniyuq runakunata yanapan.
+El speech recognition para dictado.,Rimay reconocimientoqa dictadopaqmi.
+Los image recognition para ciegos.,Rikch'a reconocimientoqa ñawsa runakunapaq.
+La gesture control maneja dispositivos sin tacto.,Gesto controlqa mana llamk'achkaspa dispositivot a gestionan.
+Los brain-computer interfaces leen señales cerebrales.,Cerebro-computadora interfazkunaqa cerebro señaleta leen.
+El emotion recognition adapta respuestas.,Emoción reconocimientoqa kutichiykunata ajustan.
+Los affective computing systems responden a sentimientos.,Afectivo computación sistemakunaqa wayllukuykunaman kutichinku.
+La HR analytics optimiza contratación.,RRHH análisisqa contrataciónta optimizan.
+Los resume screening filters seleccionan candidatos.,CV screening filtrokunaqa candidatokunata select ranku.
+El employee retention prediction reduce rotación.,Empleado retención predicciónqa rotaciónta pisirachin.
+La performance evaluation mide productividad.,Rendimiento evaluaciónqa productividatta tupachin.
+Los training recommenders sugieren cursos.,Capacitación recomendadorkunaqa cursokunata suggest ranku.
+El workforce planning anticipa necesidades laborales.,Fuerza trabajo planificaciónqa llamk'ay necesidackunata anticipan.
+La salary analysis detecta inequidades.,Salario análisisqa inequidadkunata tarin.
+Los recruitment chatbots programan entrevistas.,Reclutamiento chatbotkunaqa entrevistakunata programanku.
+El skills mapping identifica brechas de capacidad.,Habilidad mapeoqa capacidad brechakunata identifican.
+La diversity monitoring promueve inclusión.,Diversidad monitoreoqa inclusiónta promueven.
+Los employee sentiment analysis miden moral.,Empleado sentimiento análisisqa moralta tupachinku.
+El turnover analysis encuentra causas de renuncia.,Rotación análisisqa renuncia causakunata tarin.
+La remote work analytics optimiza teletrabajo.,Remoto trabajo análisisqa teletrabajota optimizan.
+Los productivity trackers monitorizan output.,Productividad rastreadorkunaqa producciónta monitorizan.
+El meeting analysis mejora reuniones.,Reunión análisisqa reuniónkunata allinchán.
+La email response time optimization.,Correo respuesta tiempo optimización.
+Los schedule optimizers balancean carga de trabajo.,Horario optimizadorkunaqa llamk'ay cargata balancean.
+El project management AI asigna tareas.,Proyecto gestión IAqa tareakunata assignan.
+Los risk assessment models evalúan peligros.,Riesgo evaluación modelokunaqa peligrokunata evaluanku.
+La financial forecasting predice ingresos.,Financiero forecastingqa ingresokunata predict ranku.
+Los credit scoring systems califican riesgo.,Crédito scoring sistemakunaqa riesgota calificanku.
+El loan approval automation acelera procesos.,Préstamo aprobación automatizaciónqa procesokunata usqhaychan.
+La fraud detection en transacciones bancarias.,Fraude detección banco transacciónkunapi.
+Los investment advisors robóticos.,Inversión asesor robotkuna.
+El portfolio management automático.,Portafolio gestión automáticomi.
+La tax optimization sugiere deducciones.,Impuesto optimizaciónqa deducciónkunata suggest ranku.
+Los invoice processing systems digitalizan facturas.,Factura procesamiento sistemakunaqa facturakunata digitalizanku.
+El expense report analysis detecta anomalías.,Gasto reporte análisisqa anomalíakunata tarin.
+La audit automation mejora compliance.,Auditoría automatizaciónqa cumplimientota allinchán.
+Los contract analysis systems revisan documentos.,Contrato análisis sistemakunaqa documentokunata revisanku.
+El legal document summarization ahorra tiempo.,Legal documento resumenqa tiempota waqaychan.
+La case prediction anticipa veredictos.,Caso predicciónqa veredictokunata anticipan.
+Los research assistants aceleran descubrimientos.,Investigación asistientekunaqa descubrimientokunata usqhaychanku.
+El scientific data analysis procesa experimentos.,Científico dato análisisqa experimentokunata procesan.
+La hypothesis generation sugiere teorías.,Hipótesis generaciónqa teoríakunata suggest ranku.
+Los literature review tools resumen papers.,Literatura revisión herramientakunaqa paperkunata resumen.
+El data visualization crea gráficos comprensibles.,Dato visualizaciónqa entendible gráficokunata kamarin.
+Los interactive dashboards exploran datos.,Interactivo dashboardkunaqa datokunata exploranku.
+La statistical analysis confirma patrones.,Estadístico análisisqa patrónkunata confirmanku.
+Los A/B testing systems comparan variantes.,A/B testing sistemakunaqa variantekunata comparanku.
+El multivariate testing optimiza experiencias.,Multivariable testingqa experienciakunata optimizan.
+La user behavior analysis comprende interacciones.,Usuario comportamiento análisisqa interacciónkunata entienden.
+Los heatmaps visualizan clicks y scroll.,Heatmapkunaqa click scrollta visualizanku.
+El session recording captura navegación.,Sesión grabaciónqa navegaciónta capturan.
+La funnel analysis identifica cuellos de botella.,Embudo análisisqa cuello botellakunata identifican.
+Los retention metrics miden lealtad.,Retención métricakunaqa lealtatta tupachinku.
+El cohort analysis segmenta por fecha de registro.,Cohorte análisisqa registro fechaman segmentan.
+La lifetime value prediction estima valor.,Tiempo vida valor predicciónqa valorta estiman.
+Los churn analysis models encuentran causas.,Fuga análisis modelokunaqa causakunata tarinku.
+El product usage tracking monitoriza engagement.,Producto uso rastreoqa engagementta monitorizan.
+La feature adoption analysis mide utilización.,Característica adopción análisisqa utilizaciónta tupachin.
+Los customer satisfaction predictors.,Cliente satisfacción predictor kuna.
+El review sentiment analysis analiza opiniones.,Reseña sentimiento análisisqa opiniónkunata analizan.
+La support ticket classification categoriza problemas.,Soporte ticket clasificaciónqa problemakunata clasifican.
+Los response suggestion systems ayudan a agentes.,Respuesta sugerencia sistemakunaqa agentekunata yanapanku.
+El call center analytics mejora servicio.,Call center análisisqa serviciota allinchán.
+La voice emotion detection mide estrés.,Voz emoción detecciónqa estrés ta tupachin.
+Los conversation analytics extraen insights.,Conversación análisisqa insightskunata horqonk u.
+El knowledge management organiza información.,Conocimiento gestiónqa informaciónta organizan.
+Los search engines mejoran con IA.,Buscadorkunaqa IAwan allinkachkanku.
+La query understanding comprende intención.,Consulta entendimientoqa intenciónta entienden.
+El document retrieval encuentra información relevante.,Documento recuperaciónqa relevante informaciónta tarin.
+Los personal assistants programan recordatorios.,Asistente personalkunaqa yarpachikuykunata programanku.
+El smart home control automatiza hogares.,Hogar control automáticoqa wasikunata automatizanku.
+La energy management optimiza consumo eléctrico.,Energía gestiónqa electricidad consumota optimizan.
+Los security systems detectan intrusos.,Seguridad sistemakunaqa intrusokunata tarinku.
+El facial recognition para acceso.,Uywa reconocimientoqa accesopaqmi.
+La voice recognition para autenticación.,Rimay reconocimientoqa autenticaciónpaq.
+Los anomaly detection systems alertan sobre comportamientos extraños.,Anomalía detección sistemakunaqa mana común conductamanta willanku.
+El predictive policing anticipa crímenes.,Predictivo policíaqa crimenkunata anticipan.
+Los traffic optimization systems reducen congestión.,Tráfico optimización sistemakunaqa congestiónta pisirachinku.
+La public safety monitoring analiza video vigilancia.,Pública seguridad monitoreoqa video vigilancia analizan.
+Los emergency response systems coordinan ayuda.,Emergencia respuesta sistemakunaqa yanapaita coordinanku.
+El disaster prediction modela catástrofes.,Desastre predicciónqa catástrofekunata modelan.
+Los climate change models proyectan escenarios.,Cambio climático modelokunaqa escenariokunata proyectanku.
+La wildlife tracking monitoriza especies silvestres.,Fauna silvestre rastreoqa silvestre especiekunata monitorizan.
+El deforestation detection alerta sobre tala ilegal.,Deforestación detecciónqa ilegal cortemanta willan.
+Los ocean monitoring systems protegen ecosistemas marinos.,Océano monitoreo sistemakunaqa mar ecosistemakunata protegen.
+La air quality prediction forecast contaminación.,Aire calidad predicciónqa contaminaciónta forecast ranku.
+Los water conservation systems optimizan uso.,Agua conservación sistemakunaqa usota optimizan.
+El smart agriculture automatiza riego.,Inteligente agriculturaqa riegota automatizan.
+Los precision irrigation systems ahorran agua.,Precisión riego sistemakunaqa yakut a waqaychanku.
+La crop yield prediction estima cosechas.,Cultivo rendimiento predicciónqa cosechakunata estiman.
+Los soil analysis sensors miden nutrientes.,Suelo análisis sensoresqa nutrientekunata tupachinku.
+El pest identification alerta sobre plagas.,Plaga identificaciónqa plagakunamanta willan.
+La plant disease detection diagnostica enfermedades vegetales.,Planta enfermedad detecciónqa planta unquykunata diagnostican.
+Los autonomous tractors trabajan solos.,Autónomo tractorkunaqa kikinkunantam llamk'anku.
+El livestock health monitoring detecta enfermedades animales.,Ganado salud monitoreoqa animal unquykunata tarin.
+Los milk production optimizers aumentan yield.,Leche producción optimizadorkunaqa rendimientota mirachinku.
+La fish farm automation gestiona acuicultura.,Piscigranja automatizaciónqa acuiculturata gestionan.
+Los food quality inspection systems.,Comida calidad inspección sistemakuna.
+El supply chain tracking monitoriza productos.,Cadena rastreoqa productokunata monitorizan.
+Los expiration date predictors alertan sobre vencimientos.,Vencimiento predictor kunaqa vencimientomanta willanku.
+La restaurant demand forecasting optimiza inventario.,Restaurante demanda forecastingqa inventariota optimizan.
+Los menu optimization systems sugieren platos.,Menú optimización sistemakunaqa mikuykunata suggest ranku.
+El food waste reduction analytics.,Comida desperdicio reducción análisis.
+La recipe generation crea nuevas combinaciones.,Receta generaciónqa musuq combinaciónkunata kamarin.
+Los nutritional analysis apps calculan calorías.,Nutricional análisis aplicacionkunaqa caloríakunata calculanku.
+El personalized nutrition recomienda dietas.,Personalizado nutriciónqa dietakunata recommendan.
+Los fitness trackers monitorizan actividad física.,Fitness rastreadorkunaqa físico actividadta monitorizan.
+La sleep analysis mejora descanso.,Sueño análisisqa descansota allinchán.
+Los health risk predictors alertan sobre enfermedades.,Salud riesgo predictorkunaqa unquykunamanta willanku.
+El medical diagnosis support systems.,Médico diagnóstico apoyo sistemakuna.
+La patient monitoring alerta sobre cambios.,Paciente monitoreoqa cambiokunamanta willan.
+Los drug interaction checkers previenen complicaciones.,Medicina interacción verificadorkunaqa complicaciónkunata hark'anku.
+El surgical robots assisten en operaciones.,Cirugía robotkunaqa operaciónkunapi yanapanku.
+Los radiation therapy optimization.,Radiación terapia optimización.
+La medical imaging analysis detecta tumores.,Médico imagen análisisqa tumoristakuna tarin.
+El genome analysis identifica mutaciones.,Genoma análisisqa mutaciónkunata identifican.
+Los clinical trial matching encuentra pacientes adecuados.,Clínico prueba matchingqa paciente adecuadokunata tarin.
+La epidemic prediction modela propagación de enfermedades.,Epidemia predicciónqa enfermedad propagaciónta modelan.
+Los vaccine development accelerators.,Vacuna desarrollo aceleradorkuna.
+El hospital resource optimization.,Hospital recurso optimización.
+La patient flow analysis mejora eficiencia.,Paciente flujo análisisqa eficienciata allinchán.
+Los readmission prediction models.,Reingreso predicción modelokuna.
+El mental health chatbots proporcionan apoyo.,Salud mental chatbotkunaqa apoyota qonkun.
+Los addiction monitoring systems.,Adicción monitoreo sistemakuna.
+La stress detection alerta sobre burnout.,Estrés detecciónqa burnoutmanta willan.
+Los emotion recognition systems para terapia.,Emoción reconocimiento sistemakuna terapiap aq.
+El autism support tools ayudan con comunicación.,Autismo apoyo herramientakunaqa comunicaciónpi yanapanku.
+Los Alzheimer monitoring systems.,Alzheimer monitoreo sistemakuna.
+La Parkinson disease analysis.,Parkinson enfermedad análisis.
+El disability assistance technology.,Discapacidad asistencia tecnología.
+Los prosthetics con control neuronal.,Prótesis neuronal controlniyuq.
+La exoskeletons para rehabilitación.,Exoesqueleto rehabilitaciónpaq.
+Los brain training apps ejercitan cognitión.,Cerebro entrenamiento aplicacionkunaqa cogniciónta ejercitanku.
+El memory enhancement systems.,Memoria mejora sistemakuna.
+Los learning style adaptation personaliza educación.,Estilo aprendizaje adaptaciónqa educaciónta personalizan.
+La student performance prediction identifica riesgos.,Estudiante rendimiento predicciónqa riesgokunata identifican.
+Los automated grading systems corrijen exámenes.,Automático corrección sistemakunaqa examenkunata corrijinku.
+El plagiarism detection encuentra copias.,Plagio detecciónqa copiakunata tarin.
+Los curriculum recommendation systems.,Currículo recomendación sistemakuna.
+La career path prediction sugiere trayectorias.,Carrera camino predicciónqa trayectoriakunata suggest ranku.
+Los language learning apps adaptan lecciones.,Idioma aprendizaje aplicacionkunaqa lecciónkunata ajustanku.
+El pronunciation analysis corrige acento.,Pronunciación análisisqa acentota corrijin.
+Los reading comprehension tools ayudan a entender.,Lectura comprensión herramientakunaqa entiendita yanapanku.
+La essay scoring systems evalúan escritura.,Ensayo scoring sistemakunaqa escriturata evaluanku.
+Los math problem solvers resuelven ecuaciones.,Matemática problema solucionadorkunaqa ecuaciónkunata resolvinku.
+El science experiment simulation.,Ciencia experimento simulación.
+Los history analysis tools exploran eventos históricos.,Historia análisis herramientakunaqa histórico eventokunata exploranku.
+La art generation crea obras originales.,Arte generaciónqa original obrakunata kamarin.
+Los music composition systems componen sinfonías.,Música composición sistemakunaqa sinfoníakunata componen.
+El poetry writing assistants.,Poesía escritura asistientekuna.
+Los story generation engines crean narrativas.,Historia generación motorkunaqa narrativakunata kamarinku.
+La game AI desarrolla oponentes inteligentes.,Juego IAqa inteligente oponentekunata desarrollan.
+Los NPC behavior programming.,NPC comportamiento programación.
+El procedural content generation crea mundos infinitos.,Procedural contenido generaciónqa infinito pachakunata kamarin.
+Los difficulty adjustment systems adaptan desafíos.,Dificultad ajuste sistemakunaqa desafíokunata ajustanku.
+La player analytics optimiza experiencia.,Jugador análisisqa experienciata optimizan.
+Los cheating detection systems mantienen equidad.,Trampa detección sistemakunaqa equidatta guardanku.
+El sports performance analysis mejora atletas.,Deporte rendimiento análisisqa atletakunata allinchán.
+Los injury prediction models previenen lesiones.,Lesión predicción modelokunaqa lesiónkunata hark'anku.
+La team strategy optimization.,Equipo estrategia optimización.
+Los scouting systems identifican talentos.,Scouting sistemakunaqa talentokunata identificanku.
+El match outcome prediction.,Partido resultado predicción.
+Los betting odds calculation.,Apuesta odds cálculo.
+La fan engagement analysis.,Fan engagement análisis.
+Los merchandise demand forecasting.,Merchandise demanda forecasting.
+El ticket pricing optimization.,Ticket precio optimización.
+Los venue management systems.,Lugar gestión sistemakuna.
+La event security monitoring.,Evento seguridad monitoreo.
+Los crowd behavior analysis.,Multitud comportamiento análisis.
+El traffic flow optimization.,Tráfico flujo optimización.
+Los public transport scheduling.,Público transporte programación.
+La ride-sharing optimization.,Ride-sharing optimización.
+Los parking availability prediction.,Estacionamiento disponibilidad predicción.
+El route planning para delivery.,Ruta planificación entregapaq.
+Los logistics optimization systems.,Logística optimización sistemakuna.
+La warehouse automation.,Almacén automatización.
+Los inventory robots.,Inventario robotkuna.
+El quality inspection automático.,Calidad inspección automáticomi.
+Los packaging optimization systems.,Embalaje optimización sistemakuna.
+La supply chain risk assessment.,Cadena riesgo evaluación.
+Los demand sensing models.,Demanda sensing modelokuna.
+El returns prediction.,Devolución predicción.
+Los customer service automation.,Cliente servicio automatización.
+La voice bot implementation.,Voz bot implementación.
+Los omnichannel integration systems.,Omnicanal integración sistemakuna.
+El social media management automation.,Social media gestión automatización.
+Los content creation tools.,Contenido creación herramientakuna.
+La video editing automation.,Video edición automatización.
+Los thumbnail generation systems.,Thumbnail generación sistemakuna.
+El SEO optimization assistants.,SEO optimización asistientekuna.
+Los ad targeting optimization.,Anuncio targeting optimización.
+La campaign performance analysis.,Campaña rendimiento análisis.
+Los audience segmentation tools.,Audiencia segmentación herramientakuna.
+El influencer identification.,Influencer identificación.
+Los trend prediction para marketing.,Tendencia predicción marketingpaq.
+La brand sentiment monitoring.,Marca sentimiento monitoreo.
+Los competitor analysis systems.,Competidor análisis sistemakuna.
+El market research automation.,Mercado investigación automatización.
+Los product development insights.,Producto desarrollo insights.
+La pricing strategy optimization.,Precio estrategia optimización.
+Los distribution channel optimization.,Distribución canal optimización.
+El sales forecasting.,Venta forecasting.
+Los lead scoring models.,Lead scoring modelokuna.
+La customer lifetime value prediction.,Cliente tiempo vida valor predicción.
+Los churn prevention systems.,Fuga prevención sistemakuna.
+El upsell recommendation engines.,Upsell recomendación motorkuna.
+Los cross-selling opportunities identification.,Cross-selling oportunidad identificación.
+La sales assistant chatbots.,Venta asistente chatbotkuna.
+El contract management automation.,Contrato gestión automatización.
+Los invoice processing automation.,Factura procesamiento automatización.
+La payment prediction systems.,Pago predicción sistemakuna.
+Los cash flow forecasting.,Cash flow forecasting.
+El financial health monitoring.,Financiero salud monitoreo.
+Los investment opportunity identification.,Inversión oportunidad identificación.
+La risk management optimization.,Riesgo gestión optimización.
+Los regulatory compliance monitoring.,Regulatorio cumplimiento monitoreo.
+El audit automation systems.,Auditoría automatización sistemakuna.
+Los legal document analysis.,Legal documento análisis.
+La case law research assistants.,Caso ley investigación asistientekuna.
+Los contract clause recommendation.,Contrato cláusula recomendación.
+El litigation prediction.,Litigio predicción.
+Los intellectual property monitoring.,Intelectual propiedad monitoreo.
+La patent analysis systems.,Patente análisis sistemakuna.
+Los trademark similarity check.,Marca similaridad verificación.
+El copyright infringement detection.,Copyright infracción detección.
+Los legal chatbot para consultas.,Legal chatbot consultakunapaq.
+La virtual legal assistants.,Virtual legal asistientekuna.
+Los dispute resolution systems.,Disputa resolución sistemakuna.
+El mediation facilitation tools.,Mediación facilitación herramientakuna.
+Los arbitration outcome prediction.,Arbitraje resultado predicción.
+La regulatory change monitoring.,Regulatorio cambio monitoreo.
+Los compliance reporting automation.,Cumplimiento reporte automatización.
+El policy document analysis.,Política documento análisis.
+Los risk assessment automation.,Riesgo evaluación automatización.
+La safety protocol optimization.,Seguridad protocolo optimización.
+Los emergency response planning.,Emergencia respuesta planificación.
+El disaster recovery optimization.,Desastre recuperación optimización.
+Los business continuity planning.,Negocio continuidad planificación.
+La crisis management simulation.,Crisis gestión simulación.
+Los reputation monitoring systems.,Reputación monitoreo sistemakuna.
+El fake news detection.,Fake news detección.
+Los brand protection systems.,Marca protección sistemakuna.
+La social media crisis detection.,Social media crisis detección.
+Los consumer sentiment analysis.,Consumidor sentimiento análisis.
+El market trend prediction.,Mercado tendencia predicción.
+Los economic indicator analysis.,Económico indicador análisis.
+La inflation forecasting.,Inflación forecasting.
+Los interest rate prediction.,Interés tasa predicción.
+El currency exchange forecasting.,Moneda cambio forecasting.
+Los stock market prediction.,Bolsa mercado predicción.
+La commodity price forecasting.,Commodity precio forecasting.
+Los real estate valuation.,Bienes raíces valoración.
+El property demand prediction.,Propiedad demanda predicción.
+Los construction cost optimization.,Construcción costo optimización.
+La urban planning simulation.,Urbano planificación simulación.
+Los traffic pattern analysis.,Tráfico patrón análisis.
+El public space utilization.,Público espacio utilización.
+Los energy consumption prediction.,Energía consumo predicción.
+La waste management optimization.,Residuos gestión optimización.
+Los water distribution systems.,Agua distribución sistemakuna.
+El air quality management.,Aire calidad gestión.
+Los noise pollution monitoring.,Ruido contaminación monitoreo.
+La green space planning.,Verde espacio planificación.
+Los sustainable development models.,Sostenible desarrollo modelokuna.
+El carbon footprint calculation.,Carbón huella cálculo.
+Los climate impact assessment.,Clima impacto evaluación.
+La ecosystem services valuation.,Ecosistema servicio valoración.
+Los biodiversity monitoring.,Biodiversidad monitoreo.
+El wildlife conservation planning.,Fauna conservación planificación.
+Los forest management optimization.,Bosque gestión optimización.
+La ocean current modeling.,Océano corriente modelado.
+Los fishery sustainability assessment.,Pesca sostenibilidad evaluación.
+El agricultural yield prediction.,Agrícola rendimiento predicción.
+Los food security forecasting.,Comida seguridad forecasting.
+La supply chain resilience.,Cadena resiliencia.
+Los disaster risk reduction.,Desastre riesgo reducción.
+El pandemic response planning.,Pandemia respuesta planificación.
+Los public health monitoring.,Pública salud monitoreo.
+La disease outbreak prediction.,Enfermedad brote predicción.
+Los vaccination campaign optimization.,Vacunación campaña optimización.
+El health resource allocation.,Salud recurso asignación.
+Los medical supply chain management.,Médico cadena gestión.
+La patient data analysis.,Paciente dato análisis.
+Los clinical decision support.,Clínico decisión apoyo.
+El drug efficacy prediction.,Medicina eficacia predicción.
+Los side effect prediction.,Efecto secundario predicción.
+La personalized treatment planning.,Personalizado tratamiento planificación.
+Los genomic medicine applications.,Genómico medicina aplicacionkuna.
+El cancer progression modeling.,Cáncer progresión modelado.
+Los rare disease diagnosis.,Raro enfermedad diagnóstico.
+La mental health assessment.,Salud mental evaluación.
+Los addiction treatment optimization.,Adicción tratamiento optimización.
+El sleep disorder analysis.,Sueño desorden análisis.
+Los nutrition planning systems.,Nutrición planificación sistemakuna.
+La fitness program personalization.,Fitness programa personalización.
+Los wearable health monitors.,Wearable salud monitores.
+El elderly care assistance.,Anciano cuidado asistencia.
+Los disability support technology.,Discapacidad apoyo tecnología.
+La rehabilitation progress tracking.,Rehabilitación progreso rastreo.
+Los medical robot assistants.,Médico robot asistientekuna.
+El surgical planning simulation.,Cirugía planificación simulación.
+Los prosthetics customization.,Prótesis personalización.
+La telemedicine optimization.,Telemedicina optimización.
+Los health insurance optimization.,Salud seguro optimización.
+El clinical trial optimization.,Clínico prueba optimización.
+Los drug discovery acceleration.,Medicina descubrimiento aceleración.
+La pharmaceutical manufacturing.,Farmacéutico manufactura.
+Los quality control automation.,Calidad control automatización.
+El supply chain traceability.,Cadena trazabilidad.
+Los counterfeit drug detection.,Falso medicina detección.
+La patient safety monitoring.,Paciente seguridad monitoreo.
+Los hospital acquired infection prevention.,Hospital adquirido infección prevención.
+El medication error reduction.,Medicación error reducción.
+Los blood bank management.,Sangre banco gestión.
+La organ transplant matching.,Órgano transplante matching.
+Los emergency room optimization.,Emergencia sala optimización.
+El ambulance routing systems.,Ambulancia ruteo sistemakuna.
+Los disaster medical response.,Desastre médico respuesta.
+La mass casualty incident management.,Masa casualty incidente gestión.
+Los public health policy modeling.,Pública salud política modelado.
+El health inequality analysis.,Salud desigualdad análisis.
+Los social determinant tracking.,Social determinante rastreo.
+La community health assessment.,Comunidad salud evaluación.
+Los environmental health monitoring.,Medio ambiente salud monitoreo.
+El workplace safety optimization.,Llamk'ay seguridad optimización.
+Los occupational health analysis.,Ocupacional salud análisis.
+La industrial hygiene monitoring.,Industrial higiene monitoreo.
+Los hazard detection systems.,Peligro detección sistemakuna.
+El accident prediction modeling.,Accidente predicción modelado.
+Los safety training personalization.,Seguridad capacitación personalización.
+La compliance monitoring automation.,Cumplimiento monitoreo automatización.
+Los risk assessment tools.,Riesgo evaluación herramientakuna.
+El emergency drill simulation.,Emergencia simulacro simulación.
+Los security threat analysis.,Seguridad amenaza análisis.
+La cybersecurity monitoring.,Ciberseguridad monitoreo.
+Los intrusion detection systems.,Intrusión detección sistemakuna.
+El malware classification.,Malware clasificación.
+Los phishing detection systems.,Phishing detección sistemakuna.
+La network security optimization.,Red seguridad optimización.
+Los vulnerability assessment.,Vulnerabilidad evaluación.
+El penetration testing automation.,Penetración testing automatización.
+Los security patch management.,Seguridad parche gestión.
+La identity verification systems.,Identidad verificación sistemakuna.
+Los biometric authentication.,Biométrico autenticación.
+El access control optimization.,Acceso control optimización.
+Los surveillance systems analysis.,Vigilancia sistemakuna análisis.
+La threat intelligence platforms.,Amenaza inteligencia plataformakuna.
+Los digital forensics automation.,Digital forense automatización.
+El incident response optimization.,Incidente respuesta optimización.
+Los disaster recovery testing.,Desastre recuperación testing.
+La business impact analysis.,Negocio impacto análisis.
+Los continuity plan optimization.,Continuidad plan optimización.
+El risk modeling for insurance.,Riesgo modelado seguropaq.
+Los claims processing automation.,Reclamo procesamiento automatización.
+La fraud prevention systems.,Fraude prevención sistemakuna.
+Los underwriting optimization.,Underwriting optimización.
+El customer risk assessment.,Cliente riesgo evaluación.
+Los insurance pricing optimization.,Seguro precio optimización.
+La policy management automation.,Póliza gestión automatización.
+Los claims prediction models.,Reclamo predicción modelokuna.
+El damage assessment automation.,Daño evaluación automatización.

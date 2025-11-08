@@ -13,7 +13,7 @@ import soundfile as sf
 # ======================================================
 # CONFIGURACIÓN
 # ======================================================
-VIDEO_PATH = "videoplayback.mp4"   # <-- tu video local
+VIDEO_PATH = "cnn.mp4"   # <-- tu video local
 SEGMENT_SECONDS = 10
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))

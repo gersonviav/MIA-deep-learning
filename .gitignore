@@ -1,10 +1,10 @@
 # Environment virtuales
-exmenfinal/
+env/
 exmenfinal/
 .exmenfinal/
 .exmenfinal/
 exmenfinal/
-
+nllb-es-qu-ft/
 # Archivos de Python
 __pycache__/
 *.py[cod]
@@ -26,7 +26,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+,mp4
 # Archivos temporales y de sistema
 .DS_Store
 Thumbs.db
